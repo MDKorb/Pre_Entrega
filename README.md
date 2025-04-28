@@ -1,3 +1,5 @@
-Hola Caro! Hice una copia de las notebooks que entregué en la fecha límite porque no se veía el Preview. Deje las notebooks viejas para que puedas sersiorarte que las entregué a tiempo y que no les hice ningún cambio, solo borré los espacios vacios.
+Hola Caro! No sé por qué no permite ver el preview de las notebooks, las volví a chequear para ver si había algún error y no encontré ninguno, todo funciona bien.
+
+Por favor avisame por si encontras el problema.
 
 Saludos!
